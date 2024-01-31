@@ -1,0 +1,15 @@
+{
+    "CLOSE_PIN": 16,
+    "OPEN_PIN": 17,
+    "GREEN_LED_PIN": 19,
+    "RED_LED_PIN": 18,
+    "BUTTON_PIN": 20,
+    "WIFI_SSID": "",
+    "WIFI_PASSWD": "",
+    "WIFI_DELAY": 2,
+    "WIFI_TRIES": 5,
+    "VALVE_DELAY": 10,
+    "NTP_HOST": "ntp.certum.pl",
+    "NTP_REFRESH": 3600,
+    "TIMEZONE": "1"
+}
